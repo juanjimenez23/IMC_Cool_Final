@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#eb1455</color>
+    <color name="fondoBonton">#1C1F32</color>
+    <color name="fondoTarjeta">#1d2033</color>
+    <color name="fondoApp">#0a0c21</color>
+    <color name="FondoTarjetas">#111328</color>
+    <color name="colorTextos">#858995</color>
+    <color name="colorBtonCalcular">#eb1555</color>
+</resources>
